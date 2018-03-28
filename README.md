@@ -1,2 +1,2 @@
 # BallBreaker-Arkanoid-Clone-
-Simple game in Unity made to gain some expierience
+Simple game made in Unity made to gain some expierience
